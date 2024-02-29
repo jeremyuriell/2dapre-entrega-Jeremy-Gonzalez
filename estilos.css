@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Pridi:wght@200;300;400;500;600;700&display=swap');
+
+*{
+    font-family: "Pridi", serif;
+}
+
+.navbar{
+    background-color: palevioletred;
+}
+.navbar-collapse{
+    justify-content: end;
+}
+.navbar-brand{
+    color: bisque !important;
+}
+
+.navbar-brand img{
+    height: 70px;
+}
+.nav-link{
+    color: white !important;
+    text-shadow: 0 0 6px black !important;
+}
+.nav-link:hover{
+    color: palevioletred !important;
+}
+
+.jumbotron{
+    height: 450px;
+    background-image: url(IMG/beauty-salon-4043096_640.jpg);
+}
+.jumbotron h1{
+    color: bisque !important;
+text-decoration: underline bisque;
+text-shadow: 0 0 6px black;
+}
+.jumbotron p{
+    color: bisque !important;
+text-decoration: underline bisque;
+text-shadow: 0 0 6px black;
+}
+.btn{
+    color: bisque;
+    background-color: palevioletred;
+    text-shadow: 0 0 6px;
+}
+.whats{
+    color: bisque;
+}
+
+h2{
+    text-align: center;
+    background-color: palevioletred;
+    padding: 20px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 0 5px black;
+    margin-bottom: 0;
+}
+
+.nleft{
+    background-image: url(IMG/LUISAFONDOCOLOR.jpeg);
+   background-size: cover;
+background-position: center;
+    height: 350px;
+
+}
+
+.nright{
+    padding: 20px;
+}
+.articulo{
+    border: 5px solid black;
+    text-align: center;
+
+}
+
+h4{
+    margin-bottom: 20px;
+}
+
+.articulo i{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: black;
+    color: palevioletred;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+
+}
+footer a {
+    text-decoration: none;
+    color: bisque;
+    letter-spacing: 10px;
+}
+
+/* empieza la seccion servicios */
+
