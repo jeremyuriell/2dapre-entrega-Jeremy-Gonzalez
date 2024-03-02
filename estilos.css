@@ -104,5 +104,10 @@ footer a {
     letter-spacing: 10px;
 }
 
-/* empieza la seccion servicios */
+/* empieza la seccion contacto */
+
+.carousel{
+    width: 70%;
+    height: 70%;
+}
 
