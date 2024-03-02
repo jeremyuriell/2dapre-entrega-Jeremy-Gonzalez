@@ -59,11 +59,17 @@ h2{
 }
 
 .nleft{
-    background-image: url(IMG/LUISAFONDOCOLOR.jpeg);
+    background-image: url(IMG/microblading-cejas-2-mobile.jpg);
    background-size: cover;
 background-position: center;
     height: 350px;
 
+}
+.nleft-fluisa{
+    background-image: url(IMG/LUISAFONDONEGRO.jpeg);
+   background-size: cover;
+background-position: center;
+    height: 350px;
 }
 
 .nright{
