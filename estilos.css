@@ -27,7 +27,7 @@
 
 .jumbotron{
     height: 450px;
-    background-image: url(IMG/beauty-salon-4043096_640.jpg);
+    background-image: url(IMG/salon.jpg.jpg);
 }
 .jumbotron h1{
     color: bisque !important;
@@ -59,7 +59,7 @@ h2{
 }
 
 .nleft{
-    background-image: url(IMG/microblading-cejas-2-mobile.jpg);
+    background-image: url(IMG/microbladin-ceja.jpg.jpg);
    background-size: cover;
 background-position: center;
     height: 350px;
@@ -72,22 +72,90 @@ background-position: center;
     height: 350px;
 }
 
-.nright{
-    padding: 20px;
-}
+
 .articulo{
-    border: 5px solid black;
+    border: 2px solid black;
     text-align: center;
-
 }
-
+.
 h4{
     margin-bottom: 20px;
 }
-
+.row{
+    margin-right: 0px;
+}
 .articulo i{
     font-size: 35px;
     margin-bottom: 20px;
+}
+
+.nleftserv{
+    background-image: url(IMG/pestaña.jpg.jpg);
+    background-size: cover;
+    background-position: center;
+     height: 320px;
+     border-radius: 50%;
+
+}
+.nrightserv p{
+    color: palevioletred;
+    text-decoration: underline black;
+}
+.nleftserv1{
+    background-image: url(IMG/microbladin-ceja.jpg.jpg);
+    background-size: cover;
+    background-position: center;
+     height: 320px;
+    border-radius: 50%;
+
+}
+.nrightserv1 p{
+    color: palevioletred;
+    text-decoration: underline black;
+}
+.nleftserv2{
+    background-image: url(IMG/efecto\ rimel.jpg.jpeg);
+    background-size: cover;
+    background-position: center;
+     height: 320px;
+     border-radius: 50%;
+
+}
+.nrightserv2 p{
+    color: palevioletred;
+    text-decoration: underline black;
+}
+
+.nleftcurso1{
+background-image: url(IMG/LUISAFONDOCOLOR.jpeg);
+background-size: cover;
+background-position: center;
+height: 350px;
+border-radius: 25%;
+}
+.nrightcurso1{
+    color: palevioletred;
+    text-decoration: underline black;
+}
+
+.nleftcurso2{
+    background-image: url(IMG/LUISAFONDOCOLOR.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    border-radius: 25%;
+}
+.nrightcurso2{
+    color: palevioletred;
+    text-decoration: underline black;
+}
+
+.contacto{
+    text-align: center;
+}
+.mapa{
+    width: auto;
+    height: auto;
 }
 
 footer{
@@ -102,12 +170,5 @@ footer a {
     text-decoration: none;
     color: bisque;
     letter-spacing: 10px;
-}
-
-/* empieza la seccion contacto */
-
-.carousel{
-    width: 70%;
-    height: 70%;
-}
+ }
 
