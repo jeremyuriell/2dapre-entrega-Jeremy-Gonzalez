@@ -3,7 +3,7 @@
 *{
     font-family: "Pridi", serif;
 }
-
+/* header */
 .navbar{
     background-color: palevioletred;
 }
@@ -24,7 +24,7 @@
 .nav-link:hover{
     color: palevioletred !important;
 }
-
+/* body */
 .jumbotron{
     height: 450px;
     background-image: url(IMG/salon.jpg.jpg);
@@ -65,13 +65,6 @@ background-position: center;
     height: 350px;
 
 }
-.nleft-fluisa{
-    background-image: url(IMG/LUISAFONDONEGRO.jpeg);
-   background-size: cover;
-background-position: center;
-    height: 350px;
-}
-
 
 .articulo{
     border: 2px solid black;
@@ -85,7 +78,14 @@ background-position: center;
     font-size: 35px;
     margin-bottom: 20px;
 }
-
+/* nosotros */
+.nleft-fluisa{
+    background-image: url(IMG/LUISAFONDONEGRO.jpeg);
+   background-size: cover;
+background-position: center;
+    height: 350px;
+}
+/* ervicios */
 .nleftserv{
     background-image: url(IMG/pestaña.jpg.jpg);
     background-size: cover;
@@ -122,7 +122,7 @@ background-position: center;
     color: palevioletred;
     text-decoration: underline black;
 }
-
+/* cursos */
 .nleftcurso1{
 background-image: url(IMG/LUISAFONDOCOLOR.jpeg);
 background-size: cover;
@@ -146,7 +146,7 @@ border-radius: 25%;
     color: palevioletred;
     text-decoration: underline black;
 }
-
+/* contacto */
 .contacto{
     text-align: center;
 }
